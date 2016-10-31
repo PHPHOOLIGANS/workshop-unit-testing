@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpHooligans\Workshops\Tdd;
+namespace PhpHooligans\Workshop\Tdd;
 
 /**
  * Wrap a string to a given number of characters using a string break character.

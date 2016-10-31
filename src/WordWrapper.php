@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpHooligans\Workshops\Tdd;
+namespace PhpHooligans\Workshop\Tdd;
 
 /**
  * An example implementation of the WordWrapInterface.
