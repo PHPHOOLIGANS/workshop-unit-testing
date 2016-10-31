@@ -1,7 +1,7 @@
 {
-    "name": "ropbot/tdd-workshop",
-    "description": "🏫 Package to be used with the Ropbot TDD Workshop 🎓",
-    "keywords": ["workshop", "unit-testing", "test-driven", "TDD", "testing", "potherca"],
+    "name": "phphooligans/tdd-workshop",
+    "description": "🏫 Package to be used with the PhpHooligans Unit-testing Workshop 🎓",
+    "keywords": ["workshop", "unit-testing", "test-driven", "TDD", "testing", "PhpHooligans", "potherca"],
     "homepage": "https://workshop-php-tdd.herokuapp.com",
     "type": "library",
     "license": "GPL-3.0+",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RopBot\\Workshop\\Tdd\\" : "src/"
+            "PhpHooligans\\Workshop\\Tdd\\" : "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace RopBot\Workshops\Tdd;
+namespace PhpHooligans\Workshops\Tdd;
 
 /**
  * Wrap a string to a given number of characters using a string break character.

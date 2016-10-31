@@ -1,6 +1,6 @@
 <?php
 
-namespace RopBot\Workshops\Tdd;
+namespace PhpHooligans\Workshops\Tdd;
 
 /**
  * An example implementation of the WordWrapInterface.
