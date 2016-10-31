@@ -1,0 +1,27 @@
+{
+    "name": "ropbot/tdd-workshop",
+    "description": "🏫 Package to be used with the Ropbot TDD Workshop 🎓",
+    "keywords": ["workshop", "unit-testing", "test-driven", "TDD", "testing", "potherca"],
+    "homepage": "https://workshop-php-tdd.herokuapp.com",
+    "type": "library",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Ben Peachey",
+            "email": "potherca@gmail.com",
+            "homepage": "https://pother.ca"
+        },
+        {
+            "name": "Robert Page",
+            "homepage": "https://github.com/Terrub"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "RopBot\\Workshop\\Tdd\\" : "src/"
+        }
+    }
+}
